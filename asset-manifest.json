@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/controleac-react/static/css/main.bdeb95aa.css",
+    "main.js": "/controleac-react/static/js/main.16143811.js",
+    "static/js/787.c9ec3ee0.chunk.js": "/controleac-react/static/js/787.c9ec3ee0.chunk.js",
+    "index.html": "/controleac-react/index.html",
+    "main.bdeb95aa.css.map": "/controleac-react/static/css/main.bdeb95aa.css.map",
+    "main.16143811.js.map": "/controleac-react/static/js/main.16143811.js.map",
+    "787.c9ec3ee0.chunk.js.map": "/controleac-react/static/js/787.c9ec3ee0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdeb95aa.css",
+    "static/js/main.16143811.js"
+  ]
+}
